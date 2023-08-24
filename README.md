@@ -5,10 +5,10 @@
 Configuracion y uso:
 
 1) Clonar el repositorio
-    git clone https://github.com/martinbrocca/CEIoT_DAM_TPFinal.git
+    git clone (colocar git)
 2) Front-End:
-   1) correr el comando 'ionic repair' en la carpeta ./src/frontend/
-   2) una vez regeneradas las carpetas de componentes de Angular, correr 'ionic serve'
+   1) Ejecutar el comando 'ionic repair' en la carpeta ./src/frontend/
+   2) una vez regeneradas las carpetas de componentes de Angular, ejecutar'ionic serve'
 3) Back-End:
    1) en el directorio principal de la clonacion:
       1) Correr docker-compose up
